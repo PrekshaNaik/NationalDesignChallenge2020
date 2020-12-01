@@ -1,0 +1,13 @@
+
+	/* The body should have padding and margin */
+	body {
+		padding: 1%; 
+		margin: 1%;
+	}
+header {
+		background: #1C973D; 
+		background-image: url("../images/flywheel.jpg");
+		background-repeat: no-repeat;
+		background-size: 100%; 
+		padding: 1%;
+	}
